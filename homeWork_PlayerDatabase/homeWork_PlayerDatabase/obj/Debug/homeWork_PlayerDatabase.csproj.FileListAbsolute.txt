@@ -1,0 +1,8 @@
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\bin\Debug\homeWork_PlayerDatabase.exe.config
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\bin\Debug\homeWork_PlayerDatabase.exe
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\bin\Debug\homeWork_PlayerDatabase.pdb
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\obj\Debug\homeWork_PlayerDatabase.csproj.AssemblyReference.cache
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\obj\Debug\homeWork_PlayerDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\obj\Debug\homeWork_PlayerDatabase.csproj.CoreCompileInputs.cache
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\obj\Debug\homeWork_PlayerDatabase.exe
+C:\Users\fazle\source\repos\homeWork_PlayerDatabase\homeWork_PlayerDatabase\obj\Debug\homeWork_PlayerDatabase.pdb
